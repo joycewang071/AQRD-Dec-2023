@@ -5,7 +5,7 @@ Weibo_1215_sampled.csv: 10,000 samples
 
 ## Code for replication
 
-Descriptive_Statistics: Summary Statistics, Covid Case Number(covid.png)
+Descriptive_Statistics.R : Summary Statistics, Covid Case Number(covid.png)
 
 Method_Assumptions.R : Covariate Balance; Event Study Plot(Event_study.png)
 
